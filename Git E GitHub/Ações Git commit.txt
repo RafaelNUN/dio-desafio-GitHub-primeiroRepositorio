@@ -1,3 +1,5 @@
+git Clone https:... - enviar arquivo do GitHub para a máquina
+
 Git Status - mostra o status do arquivo/pasta 
 
 Git add . / Git add -A - 
