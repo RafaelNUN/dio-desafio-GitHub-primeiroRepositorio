@@ -1,0 +1,5 @@
+Git Status - mostra o status do arquivo/pasta 
+
+Git add . / Git add -A - 
+
+git commit -m "mensagem para ..." 
