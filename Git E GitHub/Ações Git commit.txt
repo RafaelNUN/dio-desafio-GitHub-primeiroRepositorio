@@ -3,3 +3,5 @@ Git Status - mostra o status do arquivo/pasta
 Git add . / Git add -A - 
 
 git commit -m "mensagem para ..." 
+
+git push origin main - para enviar o arquivo commitado ao GitHub
